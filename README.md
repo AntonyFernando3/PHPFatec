@@ -11,10 +11,10 @@
 </table> 
  
 <br>
-<h1>REPOSITÓRIO JAVA FATEC</h1>
-<h3 align="justify"> Este repositório e dedicado ao armazenamento dos códigos da Linguagem de Programação Orientada a Objetos Java.
+<h1>REPOSITÓRIO PHP FATEC</h1>
+<h3 align="justify"> Este repositório e dedicado ao armazenamento dos códigos da Eletiva - Linguagem de Programação PHP.
 
-Todas as listas de atividades foram realizadas na Faculdade de Tecnologia de Jundiaí (FATEC) na disciplica de Linguagem de Programação com o Orientador Humberto. </h4>
+Todas as listas de atividades foram realizadas na Faculdade de Tecnologia de Jundiaí (FATEC) na disciplica da Eletiva - Linguagem de Programação com a Orientadora Luciana. </h4>
 
 
 <br>
@@ -30,18 +30,7 @@ A disciplina de linguagem de programação permite que um programador crie progr
 
  
  <h3> 
-     
-- Variaveis
-- Constantes
-- Operadores
-- Expressões
-- Comando de desvio
-- Controle de malhas
-- Vetores e ponteiros 
-- Funções de biblioteca 
-- Estruturas
-- Uniões 
-- Manipulação de arquivos
+     Comandos de linguagens usadas na construção e estruturação de sites para a Web, com páginas dinâmi­cas e interativas. Definição de layouts e formatação em geral. Adição de algorítmos usando laços, matrizes, datas, funções e condições. Introdução a Orientação a Objetos utilizando objetos, métodos e propriedades. Integração com Banco de Dados. Exercícios práticos com projeto de criação de sites
      
 </h3>
     
