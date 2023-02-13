@@ -14,7 +14,7 @@
 <h1>REPOSITÓRIO PHP FATEC</h1>
 <h3 align="justify"> Este repositório e dedicado ao armazenamento dos códigos da Eletiva - Linguagem de Programação PHP.
 
-Todas as listas de atividades foram realizadas na Faculdade de Tecnologia de Jundiaí (FATEC) na disciplica da Eletiva - Linguagem de Programação com a Orientadora Luciana. </h4>
+Todas as listas de atividades foram realizadas na Faculdade de Tecnologia de Jundiaí (FATEC) na disciplica da Eletiva - Linguagem de Programação com a Orientadora Luciana Ferreira Baptista. </h4>
 
 
 <br>
