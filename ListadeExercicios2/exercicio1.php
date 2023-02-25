@@ -16,7 +16,7 @@
     <title>Exercicio 1</title>
 
     <br>
-    <h1> Para exibir a tabuada, digite no final da URL: num?="numero" sem as aspas</h1>
+    <h1> Para exibir a tabuada, digite no final da URL: ?num="numero" sem as aspas</h1>
 </head>
 <body>
     
