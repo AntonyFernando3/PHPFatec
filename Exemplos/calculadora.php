@@ -64,10 +64,6 @@
     }
 ?>
 
- 
-
-
-
     <font color='blue' size='10px'>
     <?php
     echo "Resultado: "
@@ -82,5 +78,3 @@
 
 </body>
 </html>
-
-
